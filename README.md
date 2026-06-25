@@ -32,6 +32,14 @@ The dataset contains:
 - Comparison Details
 - Time-Based Data Analysis
 
+## 📊 Dashboard Preview
+
+![Tableau Dashboard](dashboard.png)
+
+## 🎥 Dashboard Demo
+
+[▶ Watch Demo Video](https://github.com/user-attachments/assets/dceaaa90-b5c3-47af-95cc-605b13953fc7)
+
 ## Dashboard Features
 
 - KPI Cards and Summary Metrics
