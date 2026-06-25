@@ -34,7 +34,7 @@ The dataset contains:
 
 ## 📊 Dashboard Preview
 
-![Tableau Dashboard](dashboard.png)
+![Tableau Dashboard](https://github.com/harishmaparveen2-source/Tableau/blob/c24eb3c525e7babbb6eff1fb29b92bb472f0ae77/TABLEAU%20Dashboard.png)
 
 ## 🎥 Dashboard Demo
 
