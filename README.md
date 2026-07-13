@@ -1,4 +1,12 @@
 # Tableau Data Analysis Dashboard
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1976D2?style=flat-square)
+![Dashboard](https://img.shields.io/badge/Dashboard-6A1B9A?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-00897B?style=flat-square)
+![Interactive Filters](https://img.shields.io/badge/Interactive%20Filters-F57C00?style=flat-square)
+![Calculated Fields](https://img.shields.io/badge/Calculated%20Fields-5E35B1?style=flat-square)
+![Trend Analysis](https://img.shields.io/badge/Trend%20Analysis-E53935?style=flat-square)
+![Business Insights](https://img.shields.io/badge/Business%20Insights-3949AB?style=flat-square)
 
 ## Overview
 
